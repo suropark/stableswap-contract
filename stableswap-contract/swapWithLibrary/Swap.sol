@@ -1,11 +1,3 @@
-/**
- *Submitted for verification at polygonscan.com on 2021-07-06
-*/
-
-// Sources flattened with hardhat v2.4.1 https://hardhat.org
-
-// File @openzeppelin/contracts/security/ReentrancyGuard.sol@v4.1.0
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.0;
